@@ -2,6 +2,9 @@
 
 This account basically makes automatic commits for Github Actions on certain projects expect 80-100 commits a day. Didn't want to pollute the stats of my main account so I'm using this. 
 
+Currently Active on the following repos:
+[Spotify Live README](https://github.com/Nazchanel/spotify-current-track-widget)
+
 [My Main Account](https://github.com/Nazchanel)
 
 <!--
