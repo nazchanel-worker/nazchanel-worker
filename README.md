@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This account basically makes automatic commits for Github Actions on certain projects expect 80-100 commits a day. Didn't want to pollute the stats of my main account so I'm using this. 
+
 [My Main Account](https://github.com/Nazchanel)
 
 <!--
